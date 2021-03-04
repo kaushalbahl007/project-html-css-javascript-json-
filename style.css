@@ -1,0 +1,22 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: grey;
+    box-sizing: border-box;
+}
+header {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+}
+section{
+    display: flex;
+    justify-content:space-around;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    background-color: black;
+}
